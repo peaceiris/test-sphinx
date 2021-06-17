@@ -21,6 +21,9 @@ project = 'docs'
 copyright = '2021, peaceiris'
 author = 'peaceiris'
 
+# https://www.sphinx-doc.org/en/master/usage/extensions/githubpages.html
+html_baseurl = 'https://peaceiris.github.io/test-sphinx/'
+
 
 # -- General configuration ---------------------------------------------------
 
